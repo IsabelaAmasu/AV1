@@ -1,0 +1,19 @@
+{
+  "name": "aerocode-sistema",
+  "version": "1.0.0",
+  "description": "Sistema de gestão de produção de aeronaves",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --loader ts-node/esm src/index.ts"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.39",
+    "@types/readline-sync": "^1.4.8",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.0.0"
+  }
+}
