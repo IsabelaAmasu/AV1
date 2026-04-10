@@ -4,7 +4,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![CLI](https://img.shields.io/badge/Interface-CLI-black?style=for-the-badge)
 
-O **Aerocode** é um sistema...
 O **Aerocode** é um sistema desenvolvido em **TypeScript** focado no controle completo do ciclo de vida de manutenção de aeronaves. O software abrange desde o cadastro técnico inicial até a emissão de relatórios de conformidade, garantindo segurança e organização nos processos de oficina.
 
 ---
